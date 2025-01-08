@@ -1,5 +1,4 @@
 name: Hello World Workflow
-<<<<<<< HEAD
 
 on:
   push:
